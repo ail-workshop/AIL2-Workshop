@@ -46,7 +46,7 @@ table.reg tr {
 }
 
 table.reg th {
-    color: #e37b18;
+    color: #ca5606;
 }
 
 table.reg {
@@ -56,12 +56,12 @@ table.reg {
 
 hr {
     border-style: solid;
-    border-color: #e37b18;
+    border-color: #ca5606;
     border-width: 0.5px;
 }
 
 .alert {
-    color: #e37b18;
+    color: #ca5606;
 }
 
 img.resize {
